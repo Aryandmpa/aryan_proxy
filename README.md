@@ -64,9 +64,9 @@ Before you begin, ensure you have Termux installed on your Android device. You c
 
 1.  **Clone the Repository**: Clone the Aryan Proxy repository from GitHub to your Termux environment:
     ```bash
-    git clone https://github.com/your_username/aryan_proxy.git
+    git clone https://github.com/Aryandmpa/aryan_proxy
     ```
-    (Note: Replace `your_username` with the actual GitHub username once the repository is created.)
+
 
 2.  **Navigate to the Project Directory**:
     ```bash
